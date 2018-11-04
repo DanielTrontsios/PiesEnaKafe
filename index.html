@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <title>Pies Ena Kafe</title>
+
+    <link rel="stylesheet" href="/css/main.min.css">
+  </head>
+  <body>
+    <div id="map"></div>
+    <button onclick="alert(map.getCenter());">Get center</button>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0j210Jtit_ISQk8Qv-7g9HxGusUsprxY&libraries=places&callback=initMap"
+    async defer></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
