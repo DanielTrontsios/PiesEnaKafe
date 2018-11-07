@@ -10,15 +10,16 @@ function initMap() {
   navigator.geolocation.getCurrentPosition(success, failure);
 
   function success(position) {
-    global.mapOptions = {
+    this.mapOptions = {
       center: new google.maps.LatLng(position.coords.latitude, position.coords.longitude),
       zoom: 13,
       mapTypeId: google.maps.MapTypeId.ROADMAP
+        console.log(mapOptions);
     }
   }
 
   function failure() {
-    global.mapOptions = {
+    this.mapOptions = {
       center: new google.maps.LatLng(37.422, -122.084058),
       zoom: 13,
       mapTypeId: google.maps.MapTypeId.ROADMAP
