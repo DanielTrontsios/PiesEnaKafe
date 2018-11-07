@@ -1,38 +1,41 @@
-var map;
-var center;
-var mapOptions;
-var infoWindow;
+var currentPos;
 
-var request;
-var service;
-
-function initMap() {
-  navigator.geolocation.getCurrentPosition(success, failure);
-
-  function success(position) {
-    this.mapOptions = {
-      center: new google.maps.LatLng(position.coords.latitude, position.coords.longitude),
-      zoom: 13,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-        console.log(mapOptions);
-    }
+// Get the client location if possible
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(success, failure);
+  } else {
+    // Geolocation not supported
+    currentPos = {lat: 37.983810, lng: 23.727539};
+    initMap(currentPos);
+    handleLocationError(false, infoWindow, currentPos);
   }
+}
 
-  function failure() {
-    this.mapOptions = {
-      center: new google.maps.LatLng(37.422, -122.084058),
-      zoom: 13,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
-  }
+//Permission for location granded
+function success(position) {
+  currentPos = {lat: position.coords.latitude, lng: position.coords.longitude};
+  initMap(currentPos);
+}
 
-  console.log(mapOptions);
+//Permission for location denied
+function failure() {
+  currentPos = {lat: 37.983810, lng: 23.727539};
+  initMap(currentPos);
+  handleLocationError(true, infoWindow, currentPos);
+}
 
-  map = new google.maps.Map(document.getElementById('map'), mapOptions);
+// Create the Map
+function initMap(currentPos) {
+  map = new google.maps.Map(document.getElementById('map'), {
+    center: currentPos,
+    zoom: 17,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  });
 
   request = {
-    location: map.getCenter(),
-    radius: '8047',
+    location: currentPos,
+    radius: '4000',
     types: ['cafe']
   };
 
@@ -40,17 +43,11 @@ function initMap() {
 
   service = new google.maps.places.PlacesService(map);
 
+  //Request/Search for nearby shops
   service.nearbySearch(request, callback);
 }
 
-function handleLocationError(browserHasGeolocation, infoWindow, center) {
-  infoWindow.setPosition(center);
-  infoWindow.setContent(browserHasGeolocation ?
-                        'Error: The Geolocation service failed.' :
-                        'Error: Your browser doesn\'t support geolocation.');
-  infoWindow.open(map);
-}
-
+//Grab all the shops returned by the request/search
 function callback(results, status){
   if(status == google.maps.places.PlacesServiceStatus.OK) {
     for(var i=0; i<results.length; i++) {
@@ -59,6 +56,7 @@ function callback(results, status){
   }
 }
 
+//Create the markers on the cafes
 function createMarker(place) {
   var placeLac = place.geometry.location;
   var marker = new google.maps.Marker({
@@ -66,8 +64,17 @@ function createMarker(place) {
     position: place.geometry.location
   });
 
+  //Expand shop info onclick(on the markers)
   google.maps.event.addListener(marker, 'click', function() {
     infoWindow.setContent(place.name);
     infoWindow.open(map, this);
   })
+}
+
+function handleLocationError(browserHasGeolocation, infoWindow, center) {
+  infoWindow.setPosition(center);
+  infoWindow.setContent(browserHasGeolocation ?
+                        'Error: Geolocation permission denied.' :
+                        'Error: Your browser doesn\'t support geolocation.');
+  infoWindow.open(map);
 }
