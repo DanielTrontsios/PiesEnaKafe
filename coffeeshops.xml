@@ -1,0 +1,121 @@
+<markers>
+  <marker id="1" name="Loving Family" address="Ακαδημίας 97 &amp; Βερανζέρου 1, Πλ. Κάνιγγος, Αθήνα" type="coffe"/>
+  <marker id="2" name="Cafe22" address="Φιλελλήνων 22, Σύνταγμα,Αθήνα" type="coffee"/>
+  <marker id="3" name="Συνεργατικό καφενείο" address="Μοναστηρίου 140 &amp; Τηλεφάνους, Ακαδημία Πλάτωνος" type="coffee"/>
+  <marker id="4" name="Myrtillo" address="Λάμψα &amp; Τριφυλίας, Αμπελόκηποι-Πάρκο ΚΑΠΑΨ" type="coffee"/>
+  <marker id="5" name="Ρότα" address="Σόλωνος 124, Εξάρχεια" type="coffee"/>
+  <marker id="6" name="Συνεργατικό Καφενείο 6" address="Τριών Ιεραρχών 21, Θησείο" type="coffee"/>
+  <marker id="7" name="Παράθυρο" address="Τριών Ιεραρχών 1, Θησείο" type="coffee"/>
+  <marker id="8" name="Korova" address="Κεραμικού 93, Κεραμικός" type="coffee"/>
+  <marker id="9" name="Delish" address="Ξενοκράτους 23, Κολωνάκι" type="coffee"/>
+  <marker id="10" name="Laluk" address="Γεωργίου Ολυμπίου 15, Κουκάκι" type="coffee"/>
+  <marker id="11" name="Κολοκύθα" address="Δράκου 19, Κουκάκι" type="coffee"/>
+  <marker id="12" name="Lelos" address="Τριπου 2, Κουκάκι" type="coffee"/>
+  <marker id="13" name="Το στέκι της Αναστασίας" address="Καυκάσου 76-78, Κυψέλη" type="coffee"/>
+  <marker id="14" name="Ο ακροβάτης" address="Μαίζωνος 44 &amp; Ψαρών 26Α, Μεταξουργείο" type="coffee"/>
+  <marker id="15" name="Ροδάκινο" address="Ηρακλειδών 70 &amp; Ευάδνης 1 (Γέφυρα Πουλοπούλου), Πετράλωνα" type="coffee"/>
+  <marker id="16" name="Το περιβολάκι" address="Αθηναίου 7, πλ. Ηούς,Πετράλωνα (Κάτω)" type="coffee"/>
+  <marker id="17" name="Γραμμόφωνο" address="Γράμμου 37, Άγιος Δημήτριος" type="coffee"/>
+  <marker id="18" name="My PastaFlora" address="Φρυγίας 11 &amp; Λυδίας, Βύρωνας" type="coffee"/>
+  <marker id="19" name="Dazz" address="Ταταούλων &amp; Επταλόφου 88, Βύρωνας" type="coffee"/>
+  <marker id="20" name="Kiosky's" address="Λ. Ποσειδώνος 80, Γλυφάδα" type="coffee"/>
+  <marker id="21" name="Cheers" address="Γούναρη 219, Γλυφάδα" type="coffee"/>
+  <marker id="22" name="Clandestino" address="Δήλου 12, Γουδί" type="coffee"/>
+  <marker id="23" name="Φυσικό και επόμενο" address="Αντιόπης 43 &amp; Παπαναστασίου, Δάφνη" type="coffee"/>
+  <marker id="24" name="Κροκόδειλος" address="Πλούτωνος 40,Δάφνη (χαραυγή)" type="coffee"/>
+  <marker id="25" name="Κυκεών" address="Σ. Γκιόκα 2, Ελευσίνα" type="coffee"/>
+  <marker id="26" name="Ξυλουργείο" address="Θανασουλοπούλου 10, Ελευσίνα" type="coffee"/>
+  <marker id="27" name="Ποδήλατο Καφέ" address="Μαικήνα 69, Ζωγράφου" type="coffee"/>
+  <marker id="28" name="Παραδοσιακό καφενείο 1968" address="Αγίων Πάντων 74, Καλλιθέα" type="coffee"/>
+  <marker id="29" name="Mikel" address="Σαπφούς 97, Καλλιθέα" type="coffee"/>
+  <marker id="30" name="Πολιτιστικό καφενείο (Διαδρομές)" address="Φραγκούδη 15-17, Καλλιθέα" type="coffee"/>
+  <marker id="31" name="Παράταιρο" address="Αγίου Γεωργίου 30,Κορυδαλλός" type="coffee"/>
+  <marker id="32" name="Paspartou" address="Χειμάρας 26, Κορυδαλλός" type="coffee"/>
+  <marker id="33" name="Εντεχνάδικο Queen" address="Πλατεία Ειρήνης, Κορυδαλλός" type="coffee"/>
+  <marker id="34" name="Baron" address="Χρυσοστόμου Σμύρνης 117-119, Μοσχάτο" type="coffee"/>
+  <marker id="35" name="Το κεφενεδάκι" address="Βύρωνος 4, Μενίδι" type="coffee"/>
+  <marker id="36" name="Coffee's art" address="Αλέκου Παναγούλη 93, Νέα Ιωνία " type="coffee"/>
+  <marker id="37" name="Σαΐτες" address="Ιωνίας 45, Νέα Σμύρνη" type="coffee"/>
+  <marker id="38" name="Δέκα 4" address="Αιγαίου 14, Νέα Σμύρνη" type="coffee"/>
+  <marker id="39" name="Lant' Eustachio" address="Κοραή &amp; Μεγ.Βασιλείου, Αθλητικός Όμιλος Μίλωνα, Νέα Σμύρνη" type="coffee"/>
+  <marker id="40" name="Ίρις" address="Σμύρνης 2, Νέα Φιλαδέλφεια" type="coffee"/>
+  <marker id="41" name="Ποδήλατο" address="Ενδυμείωνος 4, Παλαιό Φάληρο" type="coffee"/>
+  <marker id="42" name="Γεύσεις &amp; γεύσεις" address="Βικέλα 35, Κάτω Πατήσια" type="coffee"/>
+  <marker id="43" name="all sports club" address="Ακτή Θεμιστοκλέους 26, Πειραιάς" type="coffee"/>
+  <marker id="44" name="Οι Άγγελοι - LA" address="Πλ. Οδυσσού 8, Πειραιάς" type="coffee"/>
+  <marker id="45" name="Da capitano cafe-bar" address="Καραϊσκου 123, Πειραιάς" type="coffee"/>
+  <marker id="46" name="El gato" address="Αμφιλοχίας 2, Περιστέρι" type="coffee"/>
+  <marker id="47" name="Το ποδήλατο του παππού" address="Μ.Αλεξάνδρου &amp; Αιγίνης 2, Περιστέρι" type="coffee"/>
+  <marker id="48" name="24 kiosque" address="25ης Μαρτίου 60, Πετρούπολη" type="coffee"/>
+  <marker id="49" name="Kώνειο" address="Σωκράτους 23, Χαλάνδρι" type="coffee"/>
+  <marker id="50" name="7th Thought" address="Αγίας Παρασκευής 29, Χαλάνδρι" type="coffee"/>
+  <marker id="51" name="Το μαγαζάκι της Ισιδώρας" address="Ύδρας 13 &amp; Ζαν Μωρεάς, Χαλάνδρι" type="coffee"/>
+  <marker id="52" name="Mosquito" address="Κώστα Βάρναλη 2-4, Χαλάνδρι" type="coffee"/>
+  <marker id="53" name="Το Βαγόνι" address="Σαρανταπόρου &amp; Μέτωνος, Χολαργός" type="coffee"/>
+  <marker id="54" name="Καφενείο Γαλάρη" address="Παραλία Αίγινας, Αίγινα" type="coffee"/>
+  <marker id="55" name="Γιαρντίμ" address="Μακεδονομάχων 19, Αλεξάνδρεια Ημαθείας" type="coffee"/>
+  <marker id="56" name="Αlter Ego" address="Κανάρη 9, Αλεξανδρούπολη" type="coffee"/>
+  <marker id="57" name="Χάρτα" address="πλ.Μονοπωλείου - Σκουφά 55, Άρτα" type="coffee"/>
+  <marker id="58" name="Rocco" address="Παναγή Τσαλδάρη 28, Βέροια" type="coffee"/>
+  <marker id="59" name="Χάρις" address="Πολυμέρη 97, Βολος" type="coffee"/>
+  <marker id="60" name="La petite cantine" address="Πυρασσού 12, Βόλος" type="coffee"/>
+  <marker id="61" name="Fuit Art Cafe" address="Ηλία Φάσα 2, Ηλία Φάσα 2" type="coffee"/>
+  <marker id="62" name="Massoulerie" address="Κανάρη 1, Εύβοια -Λιμάνι Ερέτριας" type="coffee"/>
+  <marker id="63" name="34" address="Φιλιτά 34, Ζάκυνθος" type="coffee"/>
+  <marker id="64" name="Γιαρντίμ" address="Μακεδονομάχων 19, Ημαθία - Αλεξάνδρεια" type="coffee"/>
+  <marker id="65" name="Marcel lounge cafe" address="Αρχαιολογικού Μουσείου 10-12, Θεσσαλονίκη" type="coffee"/>
+  <marker id="66" name="Rehab Pub" address="Βαλαωρίτου 19, Θεσσαλονίκη" type="coffee"/>
+  <marker id="67" name="The garden Bar" address="Αγίου Μηνά 16, Θεσσαλονίκη" type="coffee"/>
+  <marker id="68" name="Εκλεκτίκ" address="Βενιζέλου Ελευθερίου 59, Θεσσαλονίκη" type="coffee"/>
+  <marker id="69" name="Μανιφέστο" address="Δημητρίου Γούναρη 51, Θεσσαλονίκη" type="coffee"/>
+  <marker id="70" name="Coffee and stuff" address="Δημητρίου Γούναρη 50, Θεσσαλονίκη" type="coffee"/>
+  <marker id="71" name="Ωκεανός" address="Εγνατία 117, Θεσσαλονίκη" type="coffee"/>
+  <marker id="72" name="Route 88" address="Λεωφ. Νίκης 51, Θεσσαλονίκη" type="coffee"/>
+  <marker id="73" name="Basta" address="Μητρ. Γενναδίου 16 &amp; Ιουστινιανού 22, Θεσσαλονίκη" type="coffee"/>
+  <marker id="74" name="Νερό που καίει" address="Προξένου Κορομηλά 47, Θεσσαλονίκη" type="coffee"/>
+  <marker id="75" name="Απόμερο" address="Υψηλάντη Αλεξάνδρου 1, Θεσσαλονίκη - Σταυρούπολη" type="coffee"/>
+  <marker id="76" name="MarSo Fun Coffee" address="Koμνηνών 86, Καλαμαριά, Θεσσαλονίκη" type="coffee"/>
+  <marker id="77" name="Δημιουργίες" address="Χιλής 45, Κοιν.Σ.Επ, Θεσσαλονίκη-Καλαμαριά " type="coffee"/>
+  <marker id="78" name="Χαΐνης" address="Διστόμου 21, Κάτω Τούμπα, Θεσσαλονίκη " type="coffee"/>
+  <marker id="79" name="Ωκεανός" address="Διογένους 24, Τούμπα, Θεσσαλονίκη" type="coffee"/>
+  <marker id="80" name="Πολυκαφενείο" address="Φιλήντα Μένου 18, Τούμπα, Θεσσαλονίκη" type="coffee"/>
+  <marker id="81" name="Cozy mall" address="Αγ. Μαρίνης 32, Άνω Τούμπα, Θεσσαλονίκη" type="coffee"/>
+  <marker id="82" name="Bonjour" address="Γρ. Λαμπράκη 29, Άνω Τούμπα, Θεσσαλονίκη" type="coffee"/>
+  <marker id="83" name="Σαράι Καφωδείον" address="Λαμπράκη 23, Θεσσαλονίκη" type="coffee"/>
+  <marker id="84" name="Θυμωμένο Πορτραίτο" address="Καποδιστρίου 20, Ιωάννινα" type="coffee"/>
+  <marker id="85" name="Pacchetto" address="Φιλικής Εταιρίας 4, Καβάλα" type="coffee"/>
+  <marker id="86" name="Μυλόπετρα" address="Μπενάκη 6, Καλαμάτα" type="coffee"/>
+  <marker id="87" name="King" address="Κανάρη 88, Καλαμάτα" type="coffee"/>
+  <marker id="88" name="Προσεχώς" address="Σφακτηρίας 10, Καλαμάτα" type="coffee"/>
+  <marker id="89" name="Το Tσαρσί" address="Μητροπόλεως 45, Καστοριά" type="coffee"/>
+  <marker id="90" name="Sogni" address="Βότση 1, Κατερίνη" type="coffee"/>
+  <marker id="91" name="Απόστολος" address="Νέο Γυναικόκαστρο, Κιλκίς" type="coffee"/>
+  <marker id="92" name="Da Vinci" address="21ης Ιουνίου 82, Κιλκίς" type="coffee"/>
+  <marker id="93" name="Άρωμα cafe" address=" 11ης Οκτωβρίου 43, Κοζάνη" type="coffee"/>
+  <marker id="94" name="Το ροβύθι" address="Μεραμβέλου 9, Ηράκλειο, Κρήτη" type="coffee"/>
+  <marker id="95" name="Station cafe" address="Εμμανουήλ Πάχλα 60, Ρέθυμνο, Κρήτη" type="coffee"/>
+  <marker id="96" name="Μικρό Καφέ" address="Κριάρη 24, Ρέθυμνο, Κρήτη" type="coffee"/>
+  <marker id="97" name="Άμμος και Γιάντες" address="Βαρθολομέου 25, Σητεία, Κρήτη" type="coffee"/>
+  <marker id="98" name="Τελεία και Βάφλα" address="Αλεξίου Ζερβάνου 1, Κως" type="coffee"/>
+  <marker id="99" name="Carpe Diem" address="Τενέδου 6, Λαμία" type="coffee"/>
+  <marker id="100" name="Grand Café" address="Ασκληπιού 8, Λάρισα" type="coffee"/>
+  <marker id="101" name="Σουλούκος" address="Άνθιμου Γαζή 54, Λάρισα" type="coffee"/>
+  <marker id="102" name="Ramblito" address="Βόλου 4, Λάρισα" type="coffee"/>
+  <marker id="103" name="Avant Garde" address="Χαριλάου Τρικούπη 11, Μεσολόγγι" type="coffee"/>
+  <marker id="104" name="All Stars Sports Cafe &amp; Grill" address="Ελευθερίου Βενιζέλου 20, Μυτιλήνη" type="coffee"/>
+  <marker id="105" name="Rena" address="Βατούσα, Μυτιλήνη" type="coffee"/>
+  <marker id="106" name="Πιτοπωλείο" address="Γερβασίου 44, Νάουσα" type="coffee"/>
+  <marker id="107" name="Το ποτηράκι της καρδιάς" address="Σιδηράς Μεραρχίας 10, Ναύπλιο" type="coffee"/>
+  <marker id="108" name="myYogi" address="Βασ. Κων/νου 64, Ορεστιάδα" type="coffee"/>
+  <marker id="109" name="Θρεττανελό" address="Mητροπολίτου Παρθενίου 11, Πάτρα" type="coffee"/>
+  <marker id="110" name="Venue Cafe" address="Ελευθερίου Βενιζέλου 2, Αφάντου, Ρόδος" type="coffee"/>
+  <marker id="111" name="Thetraki Cafe" address="Κεντρικό πάρκο Σερρών, Σέρρες" type="coffee"/>
+  <marker id="112" name="Copa sports cafe" address="Ρούπελ 15, Σιδηρόκαστρο, Σέρρες" type="coffee"/>
+  <marker id="113" name="Γκιώνης" address="Αβέρωφ 36, Φλώρινα" type="coffee"/>
+  <marker id="114" name="Οδός Ονείρων" address="Λεωφ. Κωνσταντίνου Καραμανλή 67, Φλώρινα" type="coffee"/>
+  <marker id="115" name="Κυβερνείο" address="Λαρνακα" type="coffee"/>
+</markers>
+
+
+
+
